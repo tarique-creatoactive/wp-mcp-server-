@@ -1,0 +1,17 @@
+# Cursor config (may contain secrets)
+.cursor/
+# OS
+.DS_Store
+Thumbs.db
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+# PHP
+vendor/
+composer.lock
+*.log
+# Build artifacts
+*.zip
